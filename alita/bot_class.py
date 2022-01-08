@@ -103,7 +103,7 @@ class Alita(Client):
             ),
         )
 
-        LOGGER.info("Bot Started Successfully!\n")
+        LOGGER.info("TOKEO STARTED SUCCESFULLY !\n")
 
     async def stop(self):
         """Stop the bot and send a message to MESSAGE_DUMP telling that the bot has stopped."""
